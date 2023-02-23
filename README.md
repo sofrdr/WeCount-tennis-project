@@ -2,7 +2,8 @@
 
 ## Initialisation
 
-- Extraire les fichiers
+- Créer un dossier local
+- Ouvrir un terminal dans l'éditeur de code, se positionner dans le nouveau dossier créé et cloner le repository avec la commande `git clone https://github.com/sofrdr/WeCount-tennis-project.git`
 
 ## Installation des modules
 
